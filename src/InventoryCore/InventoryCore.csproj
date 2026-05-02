@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>InventoryCore</RootNamespace>
+    <AssemblyName>InventoryCore</AssemblyName>
+    <Version>0.1.0</Version>
+    <Authors>b-altuncay</Authors>
+    <Description>A lightweight, framework-agnostic inventory and crafting library for games.</Description>
+    <PackageTags>game;inventory;crafting;loot;shop;unity;godot</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Nullable>enable</Nullable>
+    <NoWarn>CS1591</NoWarn>
+  </PropertyGroup>
+
+</Project>
